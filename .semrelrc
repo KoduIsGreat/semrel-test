@@ -1,0 +1,13 @@
+{
+    "plugins": {
+        "provider": {
+            "name": "git",
+            "options": {
+                "default_branch": "main",
+                "remote_name": "origin",
+                "auth_username": "aashelt90",
+                "auth_password": "BWFYbyx6nmh8ctr"
+            }
+        }
+    }
+}
